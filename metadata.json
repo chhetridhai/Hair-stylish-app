@@ -1,0 +1,7 @@
+{
+  "name": "AI Face Analyzer & Stylist",
+  "description": "Advanced facial structure analysis and ultra-realistic hairstyle simulation using Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
